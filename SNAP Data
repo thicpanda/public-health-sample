@@ -1,4 +1,4 @@
-Fiscal Year,Average Participation (thousands),Average Monthly Benefit Per Person ($),Total Benefits (Millions),All Other Costs (Millions),Total Costs (Millions),Annual Inflation (%),Annual US Population Growth (%),Annual Participation Growth Rate,Annual Admin Cost Growth (loss),Annual Total Benefit Growth (%),Monthly Benefit Growth per Person (%),Difference in annual growth rates of total benefits and inflation(Annual Benefit Growth - Inflation Rate) (%)
+Fiscal_Year,Average_Participation(thousands),Average_Monthly_Benefit_Per_Person($),Total_Benefits(Millions),All_Other_Costs(Millions),Total_Costs(Millions),Annual_Inflation(%),Annual_US_Population_Growth(%),Annual_Participation_Growth_Rate(%),Annual_Admin_Cost_Growth(or_loss),Annual_Total_Benefit_Growth(%),Monthly_Benefit_Growth_Per_Person(%),Total_Benefits_Minus_Inflation(%)
 1969,"2,878",6.63,228.80,21.70,250.50,5.46,0.90,0.00,0.00,0.00,0.00,0
 1970,"4,340",10.55,549.70,27.20,576.90,5.84,0.89,33.69,20.22,58.38,37.16,52.54
 1971,"9,368",13.55,"1,522.70",53.20,"1,575.90",4.29,0.89,53.67,48.87,63.90,22.14,59.61
